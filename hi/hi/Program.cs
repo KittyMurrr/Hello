@@ -6,6 +6,10 @@ namespace hi
     {
         static void Main(string[] args)
         {
+            int num1 = 0; int num2 = 0;
+
+            Console.WriteLine("Введите второе число:");
+            num2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Меню:");
 

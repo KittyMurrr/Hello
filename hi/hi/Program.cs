@@ -6,6 +6,7 @@ namespace hi
     {
         static void Main(string[] args)
         {
+            int num1 = 0; int num2 = 0;
 
             Console.WriteLine("Меню:");
 
@@ -15,6 +16,13 @@ namespace hi
             Console.WriteLine("\td - выполнить операцию «/»");
 
             Console.WriteLine("Выберите, что вы хотите сделать!!!!!");
+
+            switch (Console.ReadLine())
+            {
+                case "b":
+                    Console.WriteLine($"Ваш результат: {num1} - {num2} = " + (num1 - num2));
+                    break;
+            }
 
             Console.ReadKey();
         }

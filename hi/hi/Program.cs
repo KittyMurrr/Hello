@@ -28,6 +28,10 @@ namespace hi
                 case "a":
                     Console.WriteLine($"Ваш результат: {num1} + {num2} = " + (num1 + num2));
                     break;
+
+                case "b":
+                    Console.WriteLine($"Ваш результат: {num1} - {num2} = " + (num1 - num2));
+                    break;
             }
 
             Console.ReadKey();

@@ -1,0 +1,13 @@
+C:\git\helloworld\hi\hi\bin\Debug\netcoreapp3.1\hi.exe
+C:\git\helloworld\hi\hi\bin\Debug\netcoreapp3.1\hi.deps.json
+C:\git\helloworld\hi\hi\bin\Debug\netcoreapp3.1\hi.runtimeconfig.json
+C:\git\helloworld\hi\hi\bin\Debug\netcoreapp3.1\hi.runtimeconfig.dev.json
+C:\git\helloworld\hi\hi\bin\Debug\netcoreapp3.1\hi.dll
+C:\git\helloworld\hi\hi\bin\Debug\netcoreapp3.1\hi.pdb
+C:\git\helloworld\hi\hi\obj\Debug\netcoreapp3.1\hi.csprojAssemblyReference.cache
+C:\git\helloworld\hi\hi\obj\Debug\netcoreapp3.1\hi.AssemblyInfoInputs.cache
+C:\git\helloworld\hi\hi\obj\Debug\netcoreapp3.1\hi.AssemblyInfo.cs
+C:\git\helloworld\hi\hi\obj\Debug\netcoreapp3.1\hi.csproj.CoreCompileInputs.cache
+C:\git\helloworld\hi\hi\obj\Debug\netcoreapp3.1\hi.dll
+C:\git\helloworld\hi\hi\obj\Debug\netcoreapp3.1\hi.pdb
+C:\git\helloworld\hi\hi\obj\Debug\netcoreapp3.1\hi.genruntimeconfig.cache

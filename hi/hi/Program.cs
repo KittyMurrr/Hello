@@ -36,7 +36,10 @@ namespace hi
 
                 case "c":
                     Console.WriteLine($"Ваш результат: {num1} * {num2} = " + (num1 * num2));
+                    break;
 
+                case "d":
+                    Console.WriteLine($"Ваш результат: {num1} / {num2} = " + (num1 / num2));
                     break;
             }
 

@@ -11,6 +11,9 @@ namespace hi
             Console.WriteLine("Введите первое число:");
             num1 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Введите второе число:");
+            num2 = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Меню:");
 
             Console.WriteLine("\ta - выполнить операцию «+»");
